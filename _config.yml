@@ -1,0 +1,13 @@
+title: Lesmana Gemeinschaft
+author: Lesmana Zimmer
+email: lesmana@gmx.de
+description: >
+  lesmana will in gemeinschaft leben
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+
+markdown: kramdown
+theme: minima
+exclude:
+  - Gemfile
+  - Gemfile.lock

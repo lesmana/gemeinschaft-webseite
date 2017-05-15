@@ -1,0 +1,6 @@
+webseite für lesmana will in gemeinschaft leben
+
+build
+-----
+
+    bundle exec jekyll build
