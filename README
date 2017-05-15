@@ -4,3 +4,9 @@ build
 -----
 
     bundle exec jekyll build
+
+upload
+------
+
+    cd _site
+    staticland . gemeinschaft.static.land
