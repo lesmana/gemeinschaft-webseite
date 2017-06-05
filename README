@@ -1,12 +1,7 @@
 webseite für lesmana will in gemeinschaft leben
 
-build
------
-
-    bundle exec jekyll build
+static html mit hand geschrieben
 
 upload
-------
 
-    cd _site
     staticland . gemeinschaft.static.land
