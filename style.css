@@ -3,5 +3,6 @@ body {
   padding: 0 0.5em;
   max-width: 40em;
   font-family: sans-serif;
+  text-align: justify;
 }
 
