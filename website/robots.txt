@@ -1,3 +1,2 @@
 User-agent: *
-Disallow: /lesmana-melanie.jpg
 Disallow: /impressum.html
